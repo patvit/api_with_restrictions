@@ -14,7 +14,7 @@ Content-Type: application/json
 Authorization: Token 32477cd4437d6f47709d82967759dc2933443ebd
 
 {
-  "title": "стул IKEA",
+  "title": "ремень IKEA",
   "description": "не Срочно"
 }
 
@@ -32,7 +32,7 @@ Authorization: Token 32477cd4437d6f47709d82967759dc2933443ebd
 ###
 
 # фильтрация по создателю
-GET {{baseUrl}}/advertisements/?creator=3
+GET {{baseUrl}}/advertisements/?creator=1
 Content-Type: application/json
 
 ###
